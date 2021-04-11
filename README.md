@@ -59,10 +59,3 @@ This project is still under development and has many issues with it. We have onl
 - Currently it is not working in mobile and tablet screens since click is not available and tap animation code has to be added.
 
 If you think you can solve any of the above problems then we will highly appreciate you to raise the pull request.
-
-
-# References 
-
-- [Cuberto Design Agency has created an original design concept](https://dribbble.com/shots/10680562-UI-Design-Course-3-Liquid-Swipe-After-Effects-Animation-2020)
-- [React Native implementation by William Candillon](https://www.youtube.com/watch?v=gLopy2MCAqM)
-- [A codepen by Yugam](https://codepen.io/pizza3/pen/LYGQOBo)
