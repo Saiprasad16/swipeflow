@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-    <a href="https://liquidswipe.netlify.app/" target="_blank">
+    <a href= target="_blank">
     <img src="src/images/swipe.gif"></img>
   </a>
 </p>
