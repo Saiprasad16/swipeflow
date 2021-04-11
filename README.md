@@ -10,7 +10,6 @@
 </p>
 
 :star: Give me Star on GitHub — it helps!  
-**Swipe Flow** is created using physics based animation libraries `react-spring` and `react-use-gesture`.
 
 # Use in your website
 
