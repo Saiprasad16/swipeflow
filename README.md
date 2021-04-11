@@ -1,6 +1,6 @@
 
-<h1 align="center"> SwipeLiquid</h1> 
-<h3 align="center"> Very smooth component transition animation with liquid swipe effect. </h3>
+<h1 align="center"> SwipeFlow</h1> 
+<h3 align="center"> Very smooth component transition animation with swipe flow effect. </h3>
 
 
 <p align="center"> 
