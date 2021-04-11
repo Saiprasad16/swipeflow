@@ -1,0 +1,7 @@
+build
+coverage
+public
+node_modules
+.cache
+package*.json
+src/data/pagesData.json
