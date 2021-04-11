@@ -14,7 +14,7 @@
 
 # Use in your website
 
-Liquid swipe effect is created considering reusability in mind. As of now, there is no `npm` or `yarn` package that you can install because there are several major issues with this package and they are mentioned in the later section of this file. Once, those errors are addressed, we can wrap the component as `npm` or `yarn` package.
+Swipe Flow effect is created considering reusability in mind. As of now, there is no `npm` or `yarn` package that you can install because there are several major issues with this package and they are mentioned in the later section of this file. Once, those errors are addressed, we can wrap the component as `npm` or `yarn` package.
 
 If you want to use this animation in your website, you can clone the repository and you can copy the file `src/components/liquidswipe.js` in your project.
 
