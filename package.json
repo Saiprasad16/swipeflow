@@ -3,7 +3,7 @@
   "name": "react-liquidswipe",
   "description": "Apple Clay Devices Showcase",
   "license": "MIT",
-  "author": "Ashutosh Hathidara",
+  "author": "",
   "version": "1.0.0",
   "scripts": {
     "build": "npm install && gatsby build",
