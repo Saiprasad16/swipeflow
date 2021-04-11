@@ -2,11 +2,14 @@
 <h1 align="center"> SwipeFlow</h1> 
 <h3 align="center"> Very smooth component transition animation with swipe flow effect. </h3>
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Saiprasad16/swipeflowhit-counter&count_bg=%23BA1BD4&title_bg=%23555555&icon=&icon_color=blueviolet&title=Hits&edge_flat=false&style=plastic)
+
 
 <p align="center"> 
     <img src="src/images/swipe.gif"></img>
   </a>
 </p>
+
 
 :star: Give me Star on GitHub — it helps!  
 
