@@ -4,7 +4,6 @@
 
 
 <p align="center"> 
-    <a href= target="_blank">
     <img src="src/images/swipe.gif"></img>
   </a>
 </p>
